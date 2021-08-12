@@ -1,0 +1,2 @@
+[06-Oct-2010 04:38:45] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/admin/sources/users_dieuhanh.php on line 59
+[06-Oct-2010 04:38:54] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/admin/sources/users_admin.php on line 56

@@ -1,0 +1,1 @@
+T&#7893;ng s&#7889; ti&#7873;n Qu&#7929; Gi&aacute;o D&#7909;c Hu&#7871; Hi&#7871;u H&#7885;c nh&#7853;n &#273;&#432;&#7907;c cho &#273;&#7871;n ng&agrave;y 31-04-2021 l&agrave;: 11.821.845.860 VN&#272; (Mười một tỷ tám trăm hai mươi mốt triệu tám trăm bốn mươi lăm ngàn tám trăm sáu mươi đồng)

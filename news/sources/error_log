@@ -1,0 +1,3 @@
+[02-Apr-2010 13:48:35] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[02-Apr-2010 13:48:37] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news1.php on line 28
+[02-Apr-2010 13:48:40] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_newsx.php on line 28

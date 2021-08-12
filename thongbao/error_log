@@ -1,0 +1,5 @@
+[15-Aug-2016 23:24:53 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/huehieu/public_html/includes/mysql.php on line 33
+[15-Aug-2016 23:24:53 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/huehieu/public_html/includes/mysql.php on line 33
+[28-Aug-2016 22:50:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/huehieu/public_html/includes/mysql.php on line 33
+[28-Aug-2016 22:50:55 UTC] PHP Fatal error:  Call to undefined function session_register() in /home/huehieu/public_html/includes/sessions.php on line 16
+[17-Sep-2016 04:20:02 Asia/Bangkok] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/huehieu/public_html/includes/mysql.php on line 33

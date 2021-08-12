@@ -1,0 +1,10 @@
+[14-Jun-2009 03:19:03] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[14-Jun-2009 03:19:08] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[14-Jun-2009 03:19:10] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[05-Oct-2009 08:45:16] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[28-Nov-2009 14:29:40] PHP Warning:  PHP Startup: mm_create(0, /session_mm_cgi-fcgi524) failed, err mm:core: failed to attach shared memory (Cannot allocate memory) in Unknown on line 0
+[28-Nov-2009 14:29:40] PHP Warning:  PHP Startup: mm_create(0, /session_mm_cgi-fcgi524) failed, err mm:core: failed to attach shared memory (Cannot allocate memory) in Unknown on line 0
+[28-Nov-2009 14:29:41] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[23-Dec-2009 06:32:11] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[30-Dec-2009 02:49:23] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
+[02-Apr-2010 13:48:26] PHP Fatal error:  Class 'db_mysql' not found in /home/huehieu/public_html/news/sources/view_news.php on line 28
